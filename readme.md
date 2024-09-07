@@ -17,11 +17,11 @@ The platform includes features like real-time notifications, grade tracking, ass
 
 1. *Disorganized Course Management*:
    - *Problem*: Many students struggle to keep track of their courses, assignments, and grades across different platforms (emails, message boards, handwritten notes). This disorganization leads to missed deadlines, incomplete assignments, and overall academic stress.
-   - *Solution: ClassConnect offers a centralized platform where students can access all course-related information in one place, including assignments, announcements, grades, and deadlines.
+   - *Solution*: ClassConnect offers a centralized platform where students can access all course-related information in one place, including assignments, announcements, grades, and deadlines.
 
 2. *Lack of Motivation*:
    - *Problem*: Students often lack motivation due to not knowing their academic standing or having a clear plan to improve their grades. They feel disconnected from the academic process, which leads to lower performance.
-   - *Solution: The platform features a **grade calculator* that shows students how well they are performing in each course. It allows them to visualize what they need to do to improve, providing clear goals and an incentive to stay motivated.
+   - *Solution*: The platform features a grade calculator* that shows students how well they are performing in each course. It allows them to visualize what they need to do to improve, providing clear goals and an incentive to stay motivated.
 
 3. *Late and Inconsistent Communication*:
    - *Problem*: Important class announcements and assignment deadlines are often missed because information is disseminated through multiple channels (emails, notice boards, or word of mouth), leading to confusion and missed opportunities.
