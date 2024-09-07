@@ -21,19 +21,19 @@ The platform includes features like real-time notifications, grade tracking, ass
 
 2. *Lack of Motivation*:
    - *Problem*: Students often lack motivation due to not knowing their academic standing or having a clear plan to improve their grades. They feel disconnected from the academic process, which leads to lower performance.
-   - *Solution*: The platform features a grade calculator* that shows students how well they are performing in each course. It allows them to visualize what they need to do to improve, providing clear goals and an incentive to stay motivated.
+   - *Solution*: The platform features a grade calculator that shows students how well they are performing in each course. It allows them to visualize what they need to do to improve, providing clear goals and an incentive to stay motivated.
 
 3. *Late and Inconsistent Communication*:
    - *Problem*: Important class announcements and assignment deadlines are often missed because information is disseminated through multiple channels (emails, notice boards, or word of mouth), leading to confusion and missed opportunities.
-   - *Solution: With **real-time notifications* integrated into the platform, students will receive instant updates on all announcements, assignments, and important dates. This ensures that they are always up to date with class requirements.
+   - *Solution*: With real-time notifications integrated into the platform, students will receive instant updates on all announcements, assignments, and important dates. This ensures that they are always up to date with class requirements.
 
 4. *Stress from Overload of Information*:
    - *Problem*: Managing different courses with multiple deadlines and assignments can be overwhelming. Students often struggle to prioritize their tasks due to the overwhelming amount of information they need to process.
-   - *Solution: ClassConnect provides a **dashboard* where students can view all their courses and assignments in a clear, organized manner. The system allows them to prioritize tasks, submit assignments, and receive feedback in an intuitive way, helping reduce stress.
+   - *Solution: ClassConnect provides a *dashboard* where students can view all their courses and assignments in a clear, organized manner. The system allows them to prioritize tasks, submit assignments, and receive feedback in an intuitive way, helping reduce stress.
 
 5. *Inconsistent Grading Systems*:
    - *Problem*: Students often do not have a clear idea of how their grades are calculated, which makes it difficult for them to focus on improving the areas that need attention.
-   - *Solution: Our **grade calculation tool* offers a transparent way for students to understand how each assignment affects their overall performance. This helps students plan their study time more effectively and focus on areas where they need improvement.
+   - *Solution*: Our grade calculation tool offers a transparent way for students to understand how each assignment affects their overall performance. This helps students plan their study time more effectively and focus on areas where they need improvement.
 
 ---
 
