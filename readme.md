@@ -1,7 +1,7 @@
 ### *About the ClassConnect Project*
 
 *Project Name*: ClassConnect  
-*Objective*: To boost students' academic performance by providing a streamlined platform that addresses the challenges of late information dissemination, lack of motivation, and academic stress caused by disorganization.
+*Objective*: To boost student's academic performance by providing a streamlined platform that addresses the challenges of late information dissemination, lack of motivation, and academic stress caused by disorganization.
 
 ---
 
@@ -17,7 +17,7 @@ The platform includes features like real-time notifications, grade tracking, ass
 
 1. *Disorganized Course Management*:
    - *Problem*: Many students struggle to keep track of their courses, assignments, and grades across different platforms (emails, message boards, handwritten notes). This disorganization leads to missed deadlines, incomplete assignments, and overall academic stress.
-   - *Solution: ClassConnect offers a **centralized platform* where students can access all course-related information in one place, including assignments, announcements, grades, and deadlines.
+   - *Solution: ClassConnect offers a centralized platform where students can access all course-related information in one place, including assignments, announcements, grades, and deadlines.
 
 2. *Lack of Motivation*:
    - *Problem*: Students often lack motivation due to not knowing their academic standing or having a clear plan to improve their grades. They feel disconnected from the academic process, which leads to lower performance.
